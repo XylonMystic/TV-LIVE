@@ -8,14 +8,11 @@
   https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/config/contents.txt
 ```
 
-- 数据源：
+- 直播源：
 
 ```bash
   https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/refs/heads/master/output/result.txt
 ```
-
-- 直播源：
-
 ```bash
   https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.txt
 ```
