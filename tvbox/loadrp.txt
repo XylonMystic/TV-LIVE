@@ -4,6 +4,8 @@
         { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长" },
         { "url": "https://3450.kstore.space/DEMO.json", "name": "小米" },
         { "url": "http://肥猫.live", "name": "肥猫" },
+        { "url": "https:/安卓哥.com/", "name": "安卓哥" },
+        { "url": "https:/盒子迷top/春盈天下", "name": "盒子迷" },
         { "url": "https://weixine.net/ysc.json", "name": "运输车" },
         { "url": "https://tv.xn--yhqu5zs87a.top", "name": "菜妮丝" },
         { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "香雅情" },
