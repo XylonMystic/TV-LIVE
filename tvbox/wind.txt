@@ -15,7 +15,7 @@
 
 { "url":"https://jk.fookxue.cn/tvboxTW/本地【戏曲音乐】/api.json", "name": "【戏曲音乐】" },
 
-{ "url":"https://jk.fookxue.cn/tvboxTW/本地【PG线路】/api.json", "name": "【PG线路】" },
+{ "url":"https://jk.fookxue.cn/tvboxTW/本地【PG线路】/api.json", "name": "💥PG线路" },
 
 { "url":"https://jk.fookxue.cn/tvboxTW/本地【喵影视线】/api.json", "name": "【喵影】" },
 
