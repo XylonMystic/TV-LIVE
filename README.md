@@ -11,7 +11,7 @@
 - 数据源：
 
 ```bash
-  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/master/output/result.txt
+  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/refs/heads/master/output/result.txt
 ```
 
 - 直播源：
