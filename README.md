@@ -1,17 +1,17 @@
-# TV_live
+# 小鱼.🐟
 
 ## 最新结果：
 
 - 接口源：
 
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/config/contents.txt
+  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/config/contents.txt
 ```
 
 - 数据源：
 
 ```bash
-  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/refs/heads/master/output/result.txt
+  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/master/output/result.txt
 ```
 
 - 直播源：
@@ -23,8 +23,8 @@
 - TVbox：
 
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/tvbox/loadrp.txt
+  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/loadrp.txt
 ```
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/tvbox/wind.txt
+  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/wind.txt
 ```
