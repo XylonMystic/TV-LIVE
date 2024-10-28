@@ -23,8 +23,8 @@
 - TVbox：
 
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/tvbox/source.txt
+  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/tvbox/loadrp.txt
 ```
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/tvbox/本地仓.txt
+  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV_live/refs/heads/main/tvbox/wind.txt
 ```
