@@ -14,6 +14,9 @@
   https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/refs/heads/master/output/result.txt
 ```
 ```bash
+  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/itv/itvlist.txt
+```
+```bash
   https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.txt
 ```
 
