@@ -21,7 +21,7 @@
 
 范明明：
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.txt
+  https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
 ```
 
 ```bash
