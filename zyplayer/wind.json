@@ -777,6 +777,22 @@
       "type": "remote",
       "isActive": true,
       "id": "e00f8473-7d21-4c96-95fb-5616963c4380"
+    },
+    {
+      "id": "1",
+      "name": "范明明IPv6",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "2",
+      "name": "YangG",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
     }
   ],
   "tbl_channel": [
