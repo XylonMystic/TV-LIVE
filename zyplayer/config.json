@@ -564,7 +564,7 @@
     },
     {
       "name": "体育",
-      "url": "https://codeberg.org/testTV/TestV/raw/branch/main/Slive.m3u",
+      "url": "https://tv.iill.top/m3u/Sport",
       "epg": "",
       "type": "remote",
       "isActive": true,
