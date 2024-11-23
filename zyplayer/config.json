@@ -381,7 +381,7 @@
     {
       "id": "7",
       "name": "范明明IPv6",
-      "url": "https://m3u.ibert.me/fmml_ipv6.m3u",
+      "url": "https://ghp.ci/https://m3u.ibert.me/fmml_ipv6.m3u",
       "isActive": true,
       "type": "remote",
       "epg": ""
@@ -389,7 +389,7 @@
     {
       "id": "8",
       "name": "4k/8k",
-      "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
       "isActive": true,
       "type": "remote",
       "epg": ""
