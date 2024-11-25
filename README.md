@@ -43,6 +43,10 @@ YanG-1989:
   https://tv.iill.top/m3u/Gather
 ```
 
+```bash
+  https://ghp.ci/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+```
+
 
 - TVbox：
 
