@@ -9,7 +9,7 @@
 
 {"sourceName":"饭太硬库","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 
-{"sourceName":"?宝盒影视","sourceUrl":"https://gitlab.com/guot55/bh/-/raw/main/ysdc.json"},
+{"sourceName":"宝盒影视","sourceUrl":"https://gitlab.com/guot55/bh/-/raw/main/ysdc.json"},
 
 {"sourceName":"宝盒迷库","sourceUrl":"https://gitlab.com/guot55/bh/-/raw/main/bhdc.json"},
 
@@ -29,7 +29,7 @@
 
 {"sourceName":"kimwang1978","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/kimwang1978/tvbox/main/tvbox.txt"},
 
-{"sourceName":"-网游鹰K线路","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyykdc.json"},
+{"sourceName":"网游鹰K线路","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyykdc.json"},
 
 {"sourceName":"小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
 
