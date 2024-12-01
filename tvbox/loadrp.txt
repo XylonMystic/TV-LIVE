@@ -1,7 +1,7 @@
 { 
     "urls": [
         { "url": "http://www.饭太硬.com/tv", "name": "💦   饭太硬" },
-        { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "💦   道长" },
+        { "url": "https://ghp.ci/raw/5NHaxyGR", "name": "💦   道长" },
         { "url": "https://3450.kstore.space/DEMO.json", "name": "💦   小米" },
         { "url": "http://肥猫.com", "name": "💦   肥猫" },
         { "url": "http://我不是.摸鱼儿.com", "name": "💦   摸鱼儿" },
