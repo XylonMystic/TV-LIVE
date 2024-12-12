@@ -16,9 +16,9 @@
   https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/refs/heads/master/output/result.txt
 ```
 
-```bash
+<!-- ```bash
   https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/itv/itvlist.txt
-```
+``` -->
 
 ##### 范明明：
 
