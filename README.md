@@ -5,7 +5,7 @@
 - ### 接口源：
 
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/config/contents.txt
+  https://ghp.nf98999881.us.kg//https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/config/contents.txt
 ```
 
 - ### 直播源：
@@ -13,17 +13,17 @@
 ##### 自建：
 
 ```bash
-  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV/refs/heads/master/output/result.txt
+  https://ghp.nf98999881.us.kg//raw.githubusercontent.com/XylonMystic/TV/refs/heads/master/output/result.txt
 ```
 
 <!-- ```bash
-  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/itv/itvlist.txt
+  https://ghp.nf98999881.us.kg//raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/itv/itvlist.txt
 ``` -->
 
 ##### 范明明：
 
 ```bash
-  https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
+  https://ghp.nf98999881.us.kg//raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
 ```
 
 ```bash
@@ -49,19 +49,19 @@
 ```
 
 ```bash
-  https://ghp.ci/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+  https://ghp.nf98999881.us.kg//raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 ```
 
 - ### TVbox：
 
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/loadrp.txt
+  https://ghp.nf98999881.us.kg//https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/loadrp.txt
 ```
 
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/wind.txt
+  https://ghp.nf98999881.us.kg//https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/wind.txt
 ```
 
 ```bash
-  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/pg/jsm.json
+  https://ghp.nf98999881.us.kg//https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/pg/jsm.json
 ```
