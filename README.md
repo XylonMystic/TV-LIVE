@@ -63,5 +63,5 @@
 ```
 
 ```bash
-  https://ghp.ci/raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/pg/jsm.json
+  https://ghp.ci/https://raw.githubusercontent.com/XylonMystic/TV-LIVE/refs/heads/main/tvbox/pg/jsm.json
 ```
