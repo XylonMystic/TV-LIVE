@@ -1,0 +1,20 @@
+{ 
+    "urls": [
+        { "url": "http://www.饭太硬.com/tv", "name": "💦   饭太硬" },
+        { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "💦   道长" },
+        { "url": "https://3450.kstore.space/DEMO.json", "name": "💦   小米" },
+        { "url": "http://肥猫.com", "name": "💦   肥猫" },
+        { "url": "http://我不是.摸鱼儿.com", "name": "💦   摸鱼儿" },
+        { "url": "http://fongmi.top", "name": "💦   Fongmi" },
+        { "url": "https:/安卓哥.com/", "name": "💦   安卓哥" },
+        { "url": "https:/盒子迷.top/禁止贩卖", "name": "💦   盒子迷" },
+        { "url": "https://weixine.net/ysc.json", "name": "💦   运输车" },
+        { "url": "https://tv.xn--yhqu5zs87a.top", "name": "💦   菜妮丝" },
+        { "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "💦   香雅情" },
+        { "url": "https://100km.top/0", "name": "💦   骚零" },
+        { "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "💦 巧技" },
+        { "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/", "name": "💦   王小二" },
+        { "url": "http://tv.nxog.top/m/", "name": "💦   讴歌" },
+        { "url": "http://ok321.top/tv", "name": "💦   OK" }
+    ]
+}
